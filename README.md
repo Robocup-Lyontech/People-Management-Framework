@@ -10,5 +10,6 @@ The People Management Framework is composed of different feature blocks. These f
     - [ros_openpose (fork)](https://github.com/jacques-saraydaryan/ros-openpose.git) (external & J. Saraydaryan - LyonTech)
 - [**Face Recognition**](https://github.com/jacques-saraydaryan/ros_face_recognition) (J. Saraydaryan - LyonTech)
 - [**Dominant Color Detection**](https://github.com/jacques-saraydaryan/ros_color_detection) (J. Saraydaryan - LyonTech)
+- **People Tracker** blocks is part of the People Management Framework
 
 This [video](https://youtu.be/0qSulBGBarg) illustrates the capabilities of the **People Management Framework** in a real situation
