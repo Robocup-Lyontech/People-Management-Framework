@@ -8,5 +8,5 @@ The People Management Framework is composed of different feature blocks. These f
   - Main Dependencies:
     - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) (external)
     - [ros_openpose (fork)](https://github.com/jacques-saraydaryan/ros-openpose.git) (external & J. Saraydaryan - LyonTech)
-- [**Face Recognition **](https://github.com/jacques-saraydaryan/ros_face_recognition) (J. Saraydaryan - LyonTech)
+- [**Face Recognition**](https://github.com/jacques-saraydaryan/ros_face_recognition) (J. Saraydaryan - LyonTech)
 - [**Dominant Color Detection**](https://github.com/jacques-saraydaryan/ros_color_detection) (J. Saraydaryan - LyonTech)
